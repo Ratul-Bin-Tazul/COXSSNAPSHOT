@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Tue May 08 22:15:41 BDT 2018
+1.base=E\:\\Program Files\\Android\\AndroidStudioProjects\\COXSSNAPSHOT\\app\\build\\intermediates\\assets\\debug
+2.path=fourws.pdf
+0.baseType=DIRECTORY
+2.base=E\:\\Program Files\\Android\\AndroidStudioProjects\\COXSSNAPSHOT\\app\\build\\intermediates\\assets\\debug
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=jrp.pdf
+0.set=ASSET
+0.base=E\:\\Program Files\\Android\\AndroidStudioProjects\\COXSSNAPSHOT\\app\\build\\intermediates\\assets\\debug
+2.baseType=DIRECTORY
+1.path=map.pdf
